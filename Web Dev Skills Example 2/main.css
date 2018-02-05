@@ -1,0 +1,12 @@
+div {
+  border: 2px solid red;
+  border-radius: 25px;
+  box-shadow: 5px 5px red;
+  width: 700px;
+  margin: auto;
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+}
