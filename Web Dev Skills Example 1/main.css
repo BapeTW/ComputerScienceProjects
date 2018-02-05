@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: lightyellow;
+}
+
+hr {
+    width: 800px;
+    border-color: rgb(255 , 142 , 1);
+}
+
+h1 {
+    color: rgb(35 , 98 , 177);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(35 , 98 , 177);
+}
+
+h1, p {
+    letter-spacing: 1px;
+}
