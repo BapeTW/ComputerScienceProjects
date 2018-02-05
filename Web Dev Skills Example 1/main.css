@@ -5,18 +5,34 @@ body {
 
 hr {
     width: 800px;
-    border-color: rgb(255 , 142 , 1);
+    border-color: rgb(255, 142, 1);
 }
 
 h1 {
-    color: rgb(35 , 98 , 177);
+    color: rgb(35, 98, 177);
+    font-family: 'Raleway', sans-serif;
+    font-size: 44px;
 }
 
-a {
+a:link, a:visited {
     text-decoration: none;
-    color: rgb(35 , 98 , 177);
+    color: rgb(35, 98, 177);
+    font-variant: small-caps;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+    color: rgb(255, 142, 1);
 }
 
 h1, p {
     letter-spacing: 1px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span {
+    font-variant: small-caps;
 }
