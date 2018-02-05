@@ -1,0 +1,31 @@
+WEB DEVELOPMENT SKILLS
+
+
+LEARN HTML
+
+HTML stands for Hyper Text Markup Language.  HTML is the content
+of a web page. Examples of HTML include headings, paragraphs,
+images, links, lists, etc.
+
+Check out the HTML Tutorial on w3schools.com.
+
+
+LEARN CSS
+
+CSS stands for Cascading Style Sheets.  CSS is the style of
+a web page.  Examples of CSS include font styles and color,
+background color, borders, dimensions, layout, etc.
+
+Check out the CSS Tutorial on w3schools.com.
+
+
+LEARN JAVASCRIPT
+
+JavaScript is the programming language of the web.  JavaScript
+helps to make web pages interactive and dynamic.  Two useful
+JavaScript libraries are:
+
+	- P5.js - A graphics library.
+	- jQuery - A library that makes interaction easier.
+
+Check out the JavaScript Tutorial on w3schools.com.
