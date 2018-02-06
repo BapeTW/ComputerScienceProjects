@@ -1,12 +1,76 @@
+body {
+  background-image: url(images/index.jpg);
+}
+
 div {
-  border: 2px solid red;
   border-radius: 25px;
-  box-shadow: 5px 5px red;
   width: 700px;
-  margin: auto;
+  margin: 40px auto;
   padding: 50px;
+  background-color: white;
+}
+
+#htmlSection {
+  border: 2px solid #E44D26;
+  box-shadow: 5px 5px #E44D26;
+}
+
+#cssSection {
+  border: 2px solid #2255FF;
+  box-shadow: 5px 5px #2255FF;
+}
+
+#jsSection {
+  border: 2px solid #D6BA32;
+  box-shadow: 5px 5px #D6BA32;
 }
 
 h1 {
   text-align: center;
+  font-size: 45px;
+  background-color: white;
+  width: 800px;
+  border-radius: 25px;
+  margin: 40px auto;
+  box-shadow: 3px 3px black;
+  padding: 10px 0;
+}
+
+.smallP {
+  font-size: 12px;
+}
+
+img {
+  width: 150px;
+  height: 175px;
+  margin-bottom: 20px;
+}
+
+#leftImg {
+  float: left;
+  margin-right: 20px;
+}
+
+.rightImg {
+  float: right;
+  margin-left: 20px;
+}
+
+h1, h2, p, ul {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: midnightblue;
+  font-weight: bold;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
 }
