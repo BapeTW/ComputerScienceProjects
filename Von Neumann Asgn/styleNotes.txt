@@ -1,0 +1,19 @@
+STYLE NOTES FOR VON NEUMANN ARCHITECTURE ASSIGNMENT
+
+Use a "Centered-Fixed-Width Content" Layout
+
+FONTS
+- Main Title is "Courier New".
+- All paragraphs are "Verdana".
+
+COLORS
+- Colors for the main components text are taken from the image.
+
+LINKS
+- Central Processing Unit - "https://en.wikipedia.org/wiki/Central_processing_unit"
+- Memory Unit - "https://en.wikipedia.org/wiki/Computer_memory"
+- Input / Output Devices - "https://en.wikipedia.org/wiki/Input/output"
+
+Open all links in a new tab.
+Apply a style to the links when the mouse hovers over them. 
+

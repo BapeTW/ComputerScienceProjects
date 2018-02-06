@@ -1,0 +1,45 @@
+body {
+  background-image: url(images/blueprint.jpg);
+}
+
+#yeet {
+  text-align: center;
+  width: 1000px;
+  height: 720px;
+  margin: auto;
+  border-radius: 25px;
+  background-color: rgba(255,255,255,0.8);
+}
+
+p {
+  font-family: "Verdana", sans-serif;
+}
+
+.midtext {
+  
+}
+
+h1 {
+  font-family: "Courier New", serif;
+  padding-bottom: 10px;
+  padding-top: 40px;
+  font-size: 55px;
+  letter-spacing: 5px;
+  font-variant: small-caps;
+}
+
+img {
+  padding: 0px;
+  margin-top: 0px auto;
+}
+
+hr {
+  border-color: red;
+  width: 800px;
+  color: rgb(255,0,0);
+}
+
+#footer {
+  font-size: 11px;
+  letter-spacing: 1px;
+}
