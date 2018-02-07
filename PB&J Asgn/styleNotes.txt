@@ -1,0 +1,22 @@
+STYLE NOTES FOR PB&J ASSIGNMENT
+
+Use a "Centered-Fixed-Width Content" Layout
+
+FONTS
+- Main Title is "Dosis"
+- All other text is "Open Sans"
+
+COLORS
+- Background color and link color is #680A0A
+
+LINKS
+- all natural peanut butter - "https://www.walmart.ca/en/ip/kraft-all-natural-peanut-butter/6000145830562"
+- Google Creative Lab - Coder Projects - "https://googlecreativelab.github.io/coder-projects/"
+
+Open links in a new tab.
+Change the style of the links when the mouse hovers over them.
+
+
+
+
+
