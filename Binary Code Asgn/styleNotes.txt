@@ -1,0 +1,20 @@
+STYLE NOTES FOR BINARY CODE ASSIGNMENT
+
+Use a "Centered Fixed Width Content" Layout.
+
+FONTS
+All text is "Cutive Mono" from Google Fonts.
+
+COLORS
+Med Grey Background: #505050;
+Dark Grey Background: #262626;
+Light Grey Text: #B4B4B4;
+Yellow Borders & Link Hover: #EDCD3C;
+
+LINKS
+BINARY TUTORIAL: "https://www.kidscodecs.com/a-binary-numbers-tutorial-with-1-and-0/"
+BINARY GAME: "http://games.penjee.com/binary-bonanza/"
+
+Open Links in new tab.  Change link text color to #EDCD3C on hover.
+
+
