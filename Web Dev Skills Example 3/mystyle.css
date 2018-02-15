@@ -15,3 +15,84 @@ IMAGE SIZES
 
 */
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* HEADER STYLES */
+header img  {
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-right: 10px;
+}
+
+header {
+  margin-bottom: 10px;
+  border-bottom: 2px solid #706D6D;
+  padding: 10px 0px;
+}
+
+/* MAIN STYLES */
+main {
+  overflow: auto;
+}
+
+main img {
+  width: 1000px;
+  height: 350px;
+  margin-bottom: 10px;
+}
+
+section {
+  text-align: center;
+  border: 4px solid #706D6D;
+  width: 326.6px;
+  float: left;
+  padding: 10px 0;
+}
+
+section img {
+  width: 150px;
+  height: 150px;
+}
+
+.divider {
+  margin-right: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* Link Styles */
+
+a:link, a:visited {
+  text-decoration: none;
+  color: #706D6D;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Footer Styles */
+
+footer {
+  background-color: #706D6D;
+  color: white;
+  font-style: italic;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+  padding: 5px 0;
+}
