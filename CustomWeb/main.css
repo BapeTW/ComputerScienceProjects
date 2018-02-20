@@ -11,12 +11,26 @@ h1 {
   color: green;
 }
 
+hr {
+  border-color: yellowgreen;
+  width: 76.2%;
+  margin: auto;
+}
+
 a {
   text-decoration: none;
 }
 
-p {
-  background-color: #F9F9F9;
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+#orangeJuiceP, #appleJuiceP, #otherJuiceP {
+  background-color: #EAEAEA;
   padding-left: 5px;
   padding-right: 5px;
   padding-top: 10px;
