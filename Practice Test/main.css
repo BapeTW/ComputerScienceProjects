@@ -1,0 +1,61 @@
+body {
+  background-color: #BCCF60;
+}
+
+/* Main Styling + Font Styling */
+
+main {
+  width: 1000px;
+  margin: auto;
+  background-color: #F0FFE0;
+}
+
+article {
+  width: 700px;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 48px;
+  letter-spacing: 4px;
+  color: #990000;
+}
+
+h2 {
+  font-family: 'Verdana', sans-serif;
+}
+
+#RainforestH2 {
+  color: #2A64AC;
+}
+
+#MixelsH2 {
+  color: #7F73A8
+}
+
+/* Image General + Width/Height */
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#rainforestImage {
+  width: 700px;
+  height: 400px;
+}
+
+#mixelsImage {
+  width: 350px;
+  height: 300px;
+}
+
+#vwImage {
+  width: 700px;
+  height: 300px;
+}
