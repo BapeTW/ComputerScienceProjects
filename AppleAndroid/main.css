@@ -1,0 +1,11 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial;
+  letter-spacing: 0.5px;
+}
+
+img {
+  width: 800px;
+}
