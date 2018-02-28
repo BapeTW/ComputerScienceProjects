@@ -9,7 +9,7 @@ body {
     padding: 40px 100px;
 }
 
-div {
+#preview {
     background-color: maroon;
     color: white;
     width: 600px;
