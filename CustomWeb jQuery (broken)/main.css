@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1100px;
+  margin: auto;
+  overflow: hidden;
+  
+}
+
+#headerButtons {
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Karla', sans-serif;
+  font-variant: small-caps;
+  letter-spacing: 3px;
+  color: green;
+}
+
+hr {
+  border-color: yellowgreen;
+  width: 1000px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+#orangeJuiceP,
+#appleJuiceP,
+#otherJuiceP {
+  background-color: #EAEAEA;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid gray;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+
+#orangeJuice {
+  color: darkorange;
+}
+
+#appleJuice {
+  color: red;
+}
+
+#otherJuice {
+  color: mediumpurple;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 29px;
+  padding: 3px;
+}
+
+main {
+  overflow: auto;
+  padding-top: 10px;
+}
+
+section {
+  text-align: left;
+  border: 4px solid #706D6D;
+  width: 33%;
+  float: left;
+  padding: 10px 0;
+  height: 80px;
+}
+
+.divider {
+  margin-right: 5px;
+}
+
+.infoText, h3 {
+  padding: 0 20px;
+}
+
+#orangeInfo, #appleInfo, #otherInfo, #orangeH3 {
+  visibility: hidden;
+  font-size: 0px;
+  line-height: 0px;
+}
+
+.infoText {
+  line-height: 23px;
+  text-indent: 10px;
+  font-family: 'Lato', sans-serif;
+  font-size: 15.25px;
+}
+
+#orangeJuiceBG {
+  background-image: url(orangecur.jpg);
+}
+
+#appleJuiceBG {
+  background-image: url(applejuice.jpg);
+}
+
+#otherJuiceBG {
+  background-image: url(otherjuice.jpg);
+}
+
+h3 {
+  font-family: 'Arimo', sans-serif;
+  letter-spacing: 1px;
+}
+
+#removeOrange, #removeApple, #removeOther {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
