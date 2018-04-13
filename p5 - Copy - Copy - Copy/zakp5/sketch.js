@@ -46,5 +46,19 @@ function keyPressed() {
         circle2.y = height / 2;
     } else if (keyCode == 80) {
         paused = !paused;
+    } else if (keycode == 83) {
+        saveCanvas();
+    }
+}
+
+function mousePressed() {
+    if (keyIsDown(49)) {
+        circle1.x = mouseX;
+        circle1.y = mouseY;
+    }
+
+    if (keyIsDown(50)) {
+        circle2.x = mouseX;
+        circle2.y = mouseY;
     }
 }
